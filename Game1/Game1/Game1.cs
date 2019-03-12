@@ -117,6 +117,7 @@ namespace Game1
             {
                 napis3 = "Kolizja";
                 napis = "Gracz X:" + ballPosition.X + "Y:" + ballPosition.Y;
+                napis2 = "NPC X:" + smallPosition2.X + "Y:" + smallPosition2.Y;
             }
             else
             {

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/micha/Desktop/PG-master/Game1/Game1/Content/ball.png</SourceFile>
-  <SourceTime>2019-03-11T04:12:24+01:00</SourceTime>
-  <DestFile>C:/Users/micha/Desktop/PG-master/Game1/Game1/Content/bin/DesktopGL/Content/ball.xnb</DestFile>
-  <DestTime>2019-03-12T10:55:35.1392348+01:00</DestTime>
+  <SourceFile>E:/Repozytoria/PG/Game1/Game1/Content/ball.png</SourceFile>
+  <SourceTime>2019-03-09T13:16:01.9088325+01:00</SourceTime>
+  <DestFile>E:/Repozytoria/PG/Game1/Game1/Content/bin/DesktopGL/Content/ball.xnb</DestFile>
+  <DestTime>2019-03-12T13:11:43.4112094+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
