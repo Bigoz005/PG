@@ -4,10 +4,10 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/micha/source/repos/Game1/Game1/Content/ball.png</File>
-    <File>C:/Users/micha/source/repos/Game1/Game1/Content/ball_small.png</File>
-    <File>C:/Users/micha/source/repos/Game1/Game1/Content/File.spritefont</File>
-    <File>C:/Users/micha/source/repos/Game1/Game1/Content/shrek.png</File>
+    <File>C:/Users/micha/Desktop/PG-master/Game1/Game1/Content/ball.png</File>
+    <File>C:/Users/micha/Desktop/PG-master/Game1/Game1/Content/ball_small.png</File>
+    <File>C:/Users/micha/Desktop/PG-master/Game1/Game1/Content/File.spritefont</File>
+    <File>C:/Users/micha/Desktop/PG-master/Game1/Game1/Content/shrek.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
